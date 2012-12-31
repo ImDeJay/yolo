@@ -1,0 +1,18 @@
+#Config file.
+
+#Choose what you'd like to do if the player is chosen when they type #yolo
+#Options: slay, kick, ban
+WhatToDo: slay
+
+#Time(in minutes) you'd like the player to be temp banned.
+banTime: 10
+
+#Reason to display when you temp ban a player.
+banReason: "You've been yolo'd!"
+
+#Reason to display when you kick a player.
+kickReason: "You've been yolo'd"
+
+#Message to send to player when they've been slain
+#slayReason: disable <- to disable
+slayReason: "You've been yolo'd"

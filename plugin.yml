@@ -1,0 +1,9 @@
+name: YoLo
+main: com.gmail.dejayyy.yolo.yolo
+description: "Random chance of getting banned. or something..."
+version: 1.0
+author: ImDeJay
+
+commands:
+  yolo:
+    usage: /<command>
